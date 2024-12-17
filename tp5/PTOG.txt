@@ -1,0 +1,53 @@
+"Tratamiento"	"Equino"	"Tiempo"	"Glucemia"
+"2"	"A campo"	"BA"	0	72.29
+"3"	"A campo"	"MA"	0	72.29
+"4"	"A campo"	"PR"	0	60.8
+"5"	"A campo"	"VA"	0	77.36
+"6"	"A campo"	"PRI"	0	91.85
+"8"	"A campo"	"FLA"	0	85.84
+"9"	"A campo"	"GOR"	0	118.45
+"10"	"Estabulados"	"AND"	0	88.84
+"11"	"Estabulados"	"POM"	0	84.84
+"12"	"Estabulados"	"CA"	0	85.91
+"13"	"Estabulados"	"DQ"	0	88.73
+"14"	"Estabulados"	"FU"	0	78.17
+"15"	"Estabulados"	"NO"	0	75.7
+"18"	"A campo"	"BA"	30	85.13
+"19"	"A campo"	"MA"	30	79.72
+"20"	"A campo"	"PR"	30	87.83
+"21"	"A campo"	"VA"	30	85.13
+"22"	"A campo"	"PRI"	30	121.89
+"24"	"A campo"	"FLA"	30	104.72
+"25"	"A campo"	"GOR"	30	125.32
+"26"	"Estabulados"	"AND"	30	108.15
+"27"	"Estabulados"	"POM"	30	109.43
+"28"	"Estabulados"	"CA"	30	118.66
+"29"	"Estabulados"	"DQ"	30	118.66
+"30"	"Estabulados"	"FU"	30	100
+"31"	"Estabulados"	"NO"	30	88.73
+"34"	"A campo"	"BA"	60	113.84
+"35"	"A campo"	"MA"	60	104.72
+"36"	"A campo"	"PR"	60	113.84
+"37"	"A campo"	"VA"	60	98.64
+"38"	"A campo"	"PRI"	60	128.76
+"40"	"A campo"	"FLA"	60	109.87
+"41"	"A campo"	"GOR"	60	152.79
+"42"	"Estabulados"	"AND"	60	111.59
+"43"	"Estabulados"	"POM"	60	127.05
+"44"	"Estabulados"	"CA"	60	156.33
+"45"	"Estabulados"	"DQ"	60	133.09
+"46"	"Estabulados"	"FU"	60	105.98
+"47"	"Estabulados"	"NO"	60	97.18
+"50"	"A campo"	"BA"	90	113.84
+"51"	"A campo"	"MA"	90	117.22
+"52"	"A campo"	"PR"	90	130.73
+"53"	"A campo"	"VA"	90	127.35
+"54"	"A campo"	"PRI"	90	144.64
+"56"	"A campo"	"FLA"	90	118.45
+"57"	"A campo"	"GOR"	90	165.67
+"58"	"Estabulados"	"AND"	90	111.59
+"59"	"Estabulados"	"POM"	90	134.43
+"60"	"Estabulados"	"CA"	90	174.29
+"61"	"Estabulados"	"DQ"	90	140.84
+"62"	"Estabulados"	"FU"	90	115.49
+"63"	"Estabulados"	"NO"	90	109.15
